@@ -60,7 +60,7 @@ To reproduce the code, run the googlecolab notebook file EMS_Analysis.ipynb file
 ## Visualization
 
 ## Screenshoots
-https://drive.google.com/file/d/1na4HDIRQJ8Yz6wt2Lo0w3M2tNTLpZYOa/view?usp=sharing
+
 
 ## Authors
 
