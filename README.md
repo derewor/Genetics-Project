@@ -58,7 +58,7 @@ To reproduce the code, run the googlecolab notebook file EMS_Analysis.ipynb file
 
 
 ## Visualization
-
+![Results](https://github.com/derewor/Genetics-Project/blob/main/Results/Dashboard%201-2.png)
 ## Screenshoots
 
 
