@@ -67,8 +67,6 @@ Dereje W. Mekonnen (PhD)
 
 derewor@gmail.com
 
-- [@derewor](https://github.com/derewor/TravelTide_Customer_Segmentation_projecte)
-
 https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
 
 
