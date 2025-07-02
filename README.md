@@ -63,6 +63,9 @@ To reproduce the code, run the googlecolab notebook file EMS_Analysis.ipynb file
 
 
 ## Authors
+Dereje W. Mekonnen (PhD)
+
+derewor@gmail.com
 
 - [@derewor](https://github.com/derewor/TravelTide_Customer_Segmentation_projecte)
 
